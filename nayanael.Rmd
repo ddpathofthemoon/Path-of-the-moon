@@ -1,0 +1,11 @@
+---
+title: "Nayanael Angelo Lettgladio"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    fig_pos: "H"
+---
+
+
+![](./personajes/nayanael/nayanael.jpg){width = 600px, height = 600px}

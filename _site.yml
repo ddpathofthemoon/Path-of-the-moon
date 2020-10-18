@@ -12,6 +12,8 @@ navbar:
           href: Gwydion.html
         - text: "Niky"
           href: Niky.html
+        - text: "Bam"
+          href: Bam.html
 #  right:
 #    - icon: fa-home fa-lg
 #      href: index.html

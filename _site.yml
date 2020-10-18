@@ -7,13 +7,15 @@ navbar:
     - text: "Personajes principales (Avatares) "
       menu:
         - text: "Nayanael"
-          href: Nayanael.html
+          href: nayanael.html
         - text: "Gwydion"
-          href: Gwydion.html
+          href: gwydion.html
         - text: "Niky"
-          href: Niky.html
+          href: niky.html
         - text: "Bam"
-          href: Bam.html
+          href: bam.html
+          
+## LOS NOMBRES SON CASE-SENSITIVE
 #  right:
 #    - icon: fa-home fa-lg
 #      href: index.html

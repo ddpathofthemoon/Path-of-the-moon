@@ -51,6 +51,3 @@ Hello Dragons!
 
 ----
 
-
-
-<img src="images/logo_reveal_black.png" width="600px">

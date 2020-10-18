@@ -1,19 +1,17 @@
-name: "D&D: Path of the moon"
+name: "Borja's personal web page"
 navbar:
   title: "HOME"
-  left:
+  right:
     - text: "Historia"
       href: historia.html    
-    - text: "Personajes principales (Avatares)"
+    - text: "Personajes principales (Avatares) "
       menu:
-        - text: "Nayanael Angelo Lettgladio"
-          href: nayanael.html
-        - text: "Gwydion Arian Swann"
-          href: gwydion.html
-        - text: "Nikki"
-          href: nikki.html
-#    - text: "Personajes principales (Historia)"
-#      href: Current_Projects.html  
+        - text: "Nayanael"
+          href: Nayanael.html
+        - text: "Gwydion"
+          href: Gwydion.html
+        - text: "Niky"
+          href: Niky.html
 #  right:
 #    - icon: fa-home fa-lg
 #      href: index.html
@@ -22,10 +20,4 @@ navbar:
 output_dir: "."
 output:
   html_document:
-    theme: paper
-    highlight: textmate
-    include:
-      after_body: ./_footer.html
-      in_header: ./favicon.html 
-    css:
-      "styles.css"
+    css: "styles.css"

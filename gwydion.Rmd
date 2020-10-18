@@ -8,4 +8,19 @@ output:
 ---
 
 
-![](./personajes/gwydion/gwydion.jpg){width = 600px, height = 600px}
+<figure_side style="float: right">
+<img src="./personajes/gwydion/gwydion.jpg"> <!--    width="500px">  -->
+</figure_side>
+
+
+# Aspecto físico
+
+# Background
+
+# Clase y raza
+
+# Curiosidades
+
+
+
+

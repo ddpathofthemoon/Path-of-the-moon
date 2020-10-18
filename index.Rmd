@@ -1,53 +1,7 @@
 ---
 title: "D&D: Path of the moon"
-output:
-  html_document:
-    fig_width: 1
-
 ---
 
-<!---From http://stackoverflow.com/questions/31753897/2-column-section-in-r-markdown:
-Put in your css file or directly in rmarkdown--->
+Hello, Dragons!
 
-<style>
-  .col2 {
-    columns: 2 200px;         /* number of columns and width in pixels*/
-    -webkit-columns: 2 200px; /* chrome, safari */
-    -moz-columns: 2 200px;    /* firefox */
-  }
-  
-figure_side {
-  float: right;
-  width: 30%;
-  text-align: left;
-  font-style: italic;
-  font-size: small;
-  text-indent: 0;
-  border: thin silver solid;
-  margin: 0.5em;
-  padding: 0.5em;
-}
-
-figure {
-  text-align: center;
-  font-style: italic;
-  font-size: smaller;
-  text-indent: 0;
-  border: thin silver solid;
-}
-
-figurecaption{
-  text-align: justify;
-}
-</style>
-
-
-
-Hello Dragons!
-
-----
-
-
-
-----
-
+---

@@ -1,5 +1,5 @@
 ---
-title: "Nayanael Angelo Lettgladio"
+title: "Nicadora (Niky) y Melquiades"
 output:
   html_document:
     toc: true
@@ -7,9 +7,8 @@ output:
     fig_pos: "H"
 ---
 
-
 <figure_side style="float: right">
-<img src="./personajes/nayanael/nayanael.jpg"> <!--    width="500px">  -->
+<img src="./personajes/nicadora/nikki.jpg"> <!--    width="500px">  -->
 </figure_side>
 
 # Aspecto físico
@@ -19,3 +18,12 @@ output:
 # Clase y raza
 
 # Curiosidades
+
+
+
+
+
+
+
+
+

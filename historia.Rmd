@@ -11,6 +11,8 @@ output:
 
 # Galviar 
 
-![](./historia/Galviar_map.jpg){width = 600px, height = 600px}
+<center>
+<img src="./historia/Galviar_map.jpg" width="700px" height="550px"> 
+<center>
 
-# Disbury
+<!-- # Disbury -->
